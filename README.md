@@ -1,2 +1,0 @@
-# amishadata
-There is one main folder called IOT inside that we have one file which is of IOT with extention.ino it has code for mesuring the temperature and locating the distance through temperature and ultrasonic sensor.Thoes data are connected to the python file through port and serial library and through google security key and firebase connection code of JSON file all these files are integrated to generate mail based alert.
